@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "64d2ab4d16e2d7a86bbae01c",
+  "owner": "xerth4",
+  "repo": "page-b18a3586a4ffe2f8f7800a73",
+  "title": "Fishmix",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b18a3586a4ffe2f8f7800a73",
+      "a": "Fishmix",
+      "b": "2027官方最新地址导航",
+      "entity": "Fishmix",
+      "brand": "Fishmix",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5f234b6d0d58102762193b714e3cc0f999e1071037518cae3ee6ff3fd367dd8c",
+      "content": {
+        "primary_entity": "Fishmix",
+        "keyword1": "Fishmix",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，Fishmix 提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量需求。基础版适合 3 台设备轻量使用，旗舰版以 5 台设备与 IPLC 专线适配游戏场景，团队版则为 20 台设备与分支路由提供高带宽节点。客户端覆盖主流桌面与移动平台，按设备选择客户端并导入订阅即可启用。",
+          "AI_HERO_SUBTITLE": "Fishmix 三档订阅按需选择",
+          "AI_HERO_INTRO": "Fishmix 是面向跨境访问的订阅式加速服务，按月度或年度付费开通。基础版、旗舰版与团队版在流量、设备数量与节点类型上逐级提升。选择前可对照日常设备数与流媒体、游戏需求，确定订阅周期与客户端。",
+          "AI_VISUAL_TITLE": "Fishmix 订阅套餐选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案折算约省两个月",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备规模、流量额度与订阅周期三个维度确定 Fishmix 的合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备总量对照即可。",
+          "AI_FEATURE_TITLE_2": "按流量需求选版",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，轻度浏览选基础版，多设备高清播放选旗舰版。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，折合月费低于按月订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应的 Fishmix 客户端，桌面端与移动端各自安装后导入订阅链接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。对照流量额度、设备数量与节点类型选择即可。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "按三个步骤完成 Fishmix 从选套餐到客户端启用的流程。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中确定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本满足所选客户端的最低要求，并检查同时在线设备数是否在套餐范围内。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档，将订阅链接填入客户端并保存，随后即可连接节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "Fishmix 按需订阅",
+          "AI_CLOSING_TEXT": "对照设备数量与流量额度选定套餐，按客户端文档完成订阅导入即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备；团队版每月 1000GB 流量、支持 20 台设备。按日常用量和设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "年付比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用建议直接选择年付方案。",
+          "AI_FAQ_ANSWER_3": "Windows 与 Android 可选用 Clash 或 V2Ray 客户端，iOS 与 macOS 可选用 Shadowrocket 等客户端。按设备系统选择对应版本，再导入订阅配置。",
+          "AI_FAQ_ANSWER_4": "可以。基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线，同一订阅也可在多台个人设备上使用，按套餐设备数上限控制即可。",
+          "AI_FAQ_ANSWER_5": "旗舰版在常规节点之外提供 IPLC 专线并做游戏加速优化，同时附带 7x24 优先工单支持；团队版则提供 VIP 专属高带宽节点与定制路由选项。",
+          "AI_FAQ_QUESTION_1": "Fishmix 各套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选，价格差多少？",
+          "AI_FAQ_QUESTION_3": "不同系统应该下载哪个客户端？",
+          "AI_FAQ_QUESTION_4": "一个订阅可以同时给多台设备使用吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版相比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "24993.cn",
+    "host": "24993.cn"
+  },
+  "file_hashes": {
+    "index.html": "4320980742ed5667cefe2997992d858512ac3ed8257d6dc1108dd48c99018499",
+    "sitemap.xml": "052774ac590720916b386e1ec02a6a4ff4a434548f7c6bd459ac6da881a278bf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3b765642b3e35650efb2403787c2d527be75a2198854f84d101b43f38a59707b",
+    "robots.txt": "5ce79e840b13087d833e65088179ef215e5b4441f2d93a87c76ea8d2bed45430",
+    "4349acfd7c11a13bcb4b072ccb56d0c3.txt": "0fef69568a049ee7a7812a7ce2749f8ba87f5148ea663e17ccdb4af37803f259"
+  },
+  "revision": "0d8adb457aa3a837ec163a9b7cbc2c9a69e16fed19fa515277d4c9b6c2ce977c"
+}
